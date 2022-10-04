@@ -1,4 +1,4 @@
-# dagor-api.hepsiburada.com
+# pmg.guzel.net.tr
 # XXXXXX
 
  #tester
