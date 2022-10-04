@@ -1,3 +1,2 @@
-# survey-api.hepsiburada.com
-
+# dagor-api.hepsiburada.com
 # XXXXXX
