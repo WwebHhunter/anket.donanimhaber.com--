@@ -1,4 +1,4 @@
-# mobileapi.n11.com
+# cdn4.n11.com
 # XXXXXX
 
  #tester
