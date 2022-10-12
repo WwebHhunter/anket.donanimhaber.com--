@@ -1,4 +1,4 @@
-# cpanelemaildiscovery.cpanel.net
+# uygar.hedefteknolojibilisim.com
 # XXXXXX
 
  #tester
