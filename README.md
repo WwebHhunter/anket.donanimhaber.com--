@@ -1,4 +1,4 @@
-# uygar.hedefteknolojibilisim.com
+# heu.hedefteknolojibilisim.com
 # XXXXXX
 
  #tester
