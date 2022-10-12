@@ -1,4 +1,4 @@
-# e.ciceksepeti.com
+# cpanelemaildiscovery.cpanel.net
 # XXXXXX
 
  #tester
