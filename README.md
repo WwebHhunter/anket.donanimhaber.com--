@@ -1,4 +1,4 @@
-# heu.hedefteknolojibilisim.com
+# teknolojibilisim
 # XXXXXX
 
  #tester
